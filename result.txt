@@ -1,0 +1,68 @@
+Total cost      : 69146121
+Total cost / num: 691461
+Min score       : 642418
+Max score       : 777162
+Total cost      : 81163814
+Total cost / num: 811638
+Min score       : 719626
+Max score       : 906977
+Total cost      : 80458005
+Total cost / num: 804580
+Min score       : 674866
+Max score       : 924947
+Total cost      : 80644821
+Total cost / num: 806448
+Min score       : 712619
+Max score       : 915236
+Total cost      : 80591693
+Total cost / num: 805916
+Min score       : 721925
+Max score       : 928112
+Total cost      : 80879762
+Total cost / num: 808797
+Min score       : 708779
+Max score       : 966049
+Total cost      : 80544655
+Total cost / num: 805446
+Min score       : 698574
+Max score       : 934807
+Total cost      : 81163814
+Total cost / num: 811638
+Min score       : 719626
+Max score       : 906977
+Total cost      : 85666180
+Total cost / num: 856661
+Min score       : 790289
+Max score       : 987513
+Total cost      : 80335649
+Total cost / num: 803356
+Min score       : 699465
+Max score       : 936695
+Total cost      : 82367372
+Total cost / num: 823673
+Min score       : 709242
+Max score       : 945946
+Total cost      : 82367372
+Total cost / num: 823673
+Min score       : 709242
+Max score       : 945946
+Total cost      : 82367372
+Total cost / num: 823673
+Min score       : 709242
+Max score       : 945946
+Total cost      : 73722118
+Total cost / num: 737221
+Min score       : 677966
+Max score       : 829689
+Total cost      : 80608821
+Total cost / num: 806088
+Min score       : 715042
+Max score       : 967021
+Total cost      : 75871118
+Total cost / num: 758711
+Min score       : 598532
+Max score       : 876788
+Total cost      : 78956557
+Total cost / num: 789565
+Min score       : 657839
+Max score       : 913183
